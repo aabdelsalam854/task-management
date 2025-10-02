@@ -46,9 +46,6 @@ UI listens to changes via ValueListenableBuilder.
 
 When a task is added, removed, or updated, only the necessary widgets are rebuilt, not the entire screen.
 
-📸 Screenshot (Optional)
-
-(Add screenshots here if you have any)
 
 💡 Why ValueNotifier?
 
