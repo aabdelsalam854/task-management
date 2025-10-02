@@ -7,6 +7,8 @@ class TaskManagementWidget extends StatelessWidget {
     Task(id: '2', title: 'Review Clean Architecture concepts', isCompleted: true),
     Task(id: '3', title: 'Practice widget animations', isCompleted: false),
     Task(id: '4', title: 'Build mini app catalog', isCompleted: false),
+      Task(id: '4', title: 'Build mini app taps', isCompleted: false),
+        Task(id: '4', title: 'Build mini app taps2', isCompleted: false),
   ]);
 
   TaskManagementWidget({super.key});
